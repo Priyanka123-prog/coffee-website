@@ -1,2 +1,2 @@
 # coffee-website
-it is website techology uses html ans css
+it is cafe webpage. Technology used in this html and CSS
